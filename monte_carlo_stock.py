@@ -49,7 +49,7 @@ plt.text(days - 1, average_simulation[-1], f"{average_simulation[-1]:.2f}",
 
 
 # Labels & Legend
-plt.title(f"Monte Carlo Simulation of {ticker} Stock Price (30 Days)")
+plt.title(f"Monte Carlo Simulation of {ticker} Stock Price (X Days)")
 plt.xlabel("Days")
 plt.ylabel("Stock Price")
 plt.legend()
