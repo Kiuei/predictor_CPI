@@ -244,4 +244,4 @@ def analyze_trading_strategies(symbol: str, start_date: str, end_date: str) -> N
 
 # Beispielaufruf
 if __name__ == "__main__":
-    analyze_trading_strategies("AAPL", "2022-01-01", "2023-01-01")
+    analyze_trading_strategies("PLTR", "2025-03-27", "2025-03-29")
